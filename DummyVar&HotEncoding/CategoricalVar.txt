@@ -1,0 +1,3 @@
+Nominal ---> male female ---> no order kind of relation
+
+Ordibal --->high medium low ---> ordered relation can be established
